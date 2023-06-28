@@ -1,4 +1,4 @@
-#Tarang
+# Tarang
 Tarang is a Recommendation engine. 
 We have used collaborative filtering as the base model for this project, since its a work in progress all and any technological is subject to change.
 The expected features of this engine are -
