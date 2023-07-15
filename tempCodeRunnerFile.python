@@ -1,0 +1,10 @@
+nums =[2,2,3,2]
+nums = sorted(nums)
+a = len(nums)
+i=0
+        
+for i in range(0,a-2):
+    if nums[i]==nums[i+1] and nums[i]==nums[i+2]:
+        i+=2
+    else:
+        print( nums[i])
